@@ -1,5 +1,5 @@
 import React from 'react'
-import '/home/harsh/Desktop/websites/harsh/src/styles.css'
+import '/home/harsh/Desktop/websites/harsh/src/index.css'
 
 function Techstack() {
   return (
