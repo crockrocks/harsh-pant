@@ -1,5 +1,5 @@
 import React from 'react'
-import '/home/harsh/Desktop/websites/harsh/src/index.css'
+import '../../../index.css'
 
 function ML() {
     var customerSegmentation = require('/home/harsh/Desktop/websites/harsh/src/images/customer_segmentation.png')

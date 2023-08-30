@@ -1,6 +1,6 @@
 import React from 'react'
 import { TypeAnimation } from 'react-type-animation';
-import '/home/harsh/Desktop/websites/harsh/src/index.css'
+import '../../../index.css'
 
 function Me() {
   var profilepic = require("../../../images/profile.png")

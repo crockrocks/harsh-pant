@@ -1,7 +1,7 @@
 import React from 'react'
 import ML from './ML'
 import DL from './DL'
-import '/home/harsh/Desktop/websites/harsh/src/index.css'
+import '../../../index.css'
 import Webd from './Webd'
 import ScrollToTop from "react-scroll-to-top";
 import { FaAngleUp } from "react-icons/fa";
