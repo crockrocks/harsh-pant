@@ -46,6 +46,10 @@ p.text-center {
     font-size: 1.8rem;
 }
 
+.text-center-grey{
+    font-size: 1.5rem;
+    color: grey;
+}
 .icons {
     font-size: 40px;
 }

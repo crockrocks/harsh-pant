@@ -26,7 +26,8 @@ function Content() {
               wrapper='b'
               repeat={Infinity}
             /></p>
-          <p className='text-center'>Welcome to my world</p>
+          <p className='text-center'>Welcome to my world .</p>
+          <p className='text-center-grey'>( Use arrow keys <i class="fa-solid fa-caret-left"></i> , <i class="fa-solid fa-caret-right"></i> to navigate )</p>
           <div className='icons'>
             <a
               className='px-2 github'

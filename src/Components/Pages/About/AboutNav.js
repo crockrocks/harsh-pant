@@ -1,10 +1,25 @@
-import React from 'react'
+import React,{useEffect} from 'react'
 import { Link } from 'react-router-dom'
 
 function AboutNav() {
   const scrollToTop = () => {
     window.scrollTo(0, 0);
   };
+  useEffect(() => {
+    const handleKeyDown = (event) => {
+        if (event.key === 'ArrowLeft') {
+            document.querySelector('.carousel-control-prev').click();
+        } else if (event.key === 'ArrowRight') {
+            document.querySelector('.carousel-control-next').click();
+        }
+    };
+
+    document.addEventListener('keydown', handleKeyDown);
+
+    return () => {
+        document.removeEventListener('keydown', handleKeyDown);
+    };
+}, []);
   return (
     <div>
       <div className='carousel'>
