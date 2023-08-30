@@ -2,9 +2,9 @@ import React from 'react'
 import '../../../index.css'
 
 function ML() {
-    var customerSegmentation = require('/home/harsh/Desktop/websites/harsh/src/images/customer_segmentation.png')
-    var AirBNB = require('/home/harsh/Desktop/websites/harsh/src/images/air_bnb.png')
-    var BullDozer = require('/home/harsh/Desktop/websites/harsh/src/images/bulldozer.png')
+    var customerSegmentation = require('../../../images/customer_segmentation.png')
+    var AirBNB = require('../../../images/air_bnb.png')
+    var BullDozer = require('../../../images/bulldozer.png')
     return (
         <div className='row project-cards'>
             <div className='col-lg-6'>

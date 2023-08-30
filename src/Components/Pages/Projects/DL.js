@@ -2,8 +2,8 @@ import React from 'react'
 import '../../../index.css'
 
 function DL() {
-    var textSummary = require('/home/harsh/Desktop/websites/harsh/src/images/text-summary.png')
-    var dogVision = require('/home/harsh/Desktop/websites/harsh/src/images/dog-classifier.png')
+    var textSummary = require('../../../images/text-summary.png')
+    var dogVision = require('../../../images/dog-classifier.png')
     return (
         <div>
             <div className="row project-cards">
