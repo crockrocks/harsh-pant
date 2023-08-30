@@ -1,5 +1,5 @@
 import React from 'react'
-import '/home/harsh/Desktop/websites/harsh/src/Styles.css'
+import '/home/harsh/Desktop/websites/harsh/src/styles.css'
 
 function DL() {
     var textSummary = require('/home/harsh/Desktop/websites/harsh/src/images/text-summary.png')
