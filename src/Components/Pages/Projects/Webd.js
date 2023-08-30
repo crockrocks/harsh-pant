@@ -1,10 +1,10 @@
 import React from 'react'
-import '/home/harsh/Desktop/websites/harsh/src/Styles.css'
+import '../../../index.css'
 
 function webd() {
-    var portfolio = require('/home/harsh/Desktop/websites/harsh/src/images/portfolio.png')
-    var kanban = require('/home/harsh/Desktop/websites/harsh/src/images/Kanban.png')
-    var simonGame = require('/home/harsh/Desktop/websites/harsh/src/images/simon-game.png')
+    var portfolio = require('../../../images/portfolio.png')
+    var kanban = require('../../../images/Kanban.png')
+    var simonGame = require('../../../images/simon-game.png')
     return (
         <div className='row web-d'>
             <div className='col-lg-6'>

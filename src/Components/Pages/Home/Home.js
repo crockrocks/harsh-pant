@@ -1,7 +1,7 @@
 import React from "react";
 import Content from "./Content.js";
 import HomeNav from "./HomeNav.js";
-import '/home/harsh/Desktop/websites/harsh/src/Styles.css'
+import '../../../index.css'
 
 function Home(){
     return(
