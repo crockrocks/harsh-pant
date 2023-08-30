@@ -1,0 +1,193 @@
+* {
+    background-color: black;
+}
+
+footer {
+    color: white;
+    position: relative;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+    margin: 0 0 0 0;
+}
+
+.footer {
+    margin-right: 40%;
+    margin-left: 40%;
+    margin-top: 2%;
+    margin-bottom: 0;
+}
+
+/* Home page */
+.Home {
+    margin: 4% 8% 0 8%;
+}
+
+.content {
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+
+.content_head {
+    padding-top: 10%;
+}
+
+.text-center {
+    color: white;
+}
+
+h1.text-center {
+    font-size: 4rem;
+}
+
+p.text-center {
+    font-size: 1.8rem;
+}
+
+.icons {
+    font-size: 40px;
+}
+
+.icons .github {
+    color: grey;
+}
+
+#carouselhome .carousel-control-next {
+    position: fixed;
+    z-index: 1;
+    top: 80%;
+}
+
+#carouselhome .carousel-control-prev {
+    position: fixed;
+    z-index: 1;
+    top: 80%;
+}
+
+/* About page */
+.About-me {
+    padding-top: 10%;
+    color: white;
+    margin: 0 8% 0 8%;
+}
+
+/* 
+Education page */
+.Education {
+    padding-top: 5%;
+}
+
+/* me page  */
+.me {
+    text-align: center;
+}
+
+.img {
+    text-align: center;
+}
+
+.profile-img {
+    border-radius: 100%;
+}
+
+.text {
+    text-align: left;
+}
+
+h3 .text {
+    padding-top: 50px;
+}
+
+/* techstack_section */
+.Techstack {
+    text-align: center;
+}
+
+.line {
+    width: 50%;
+    margin-left: 25%;
+}
+
+.logo {
+    text-align: center;
+}
+
+.logos {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 5%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.logotext {
+    padding-top: 5%;
+    font-size: 20px;
+}
+
+.Education {
+    text-align: center;
+    padding-bottom: 7%;
+}
+
+.ed-content {
+    padding-top: 2%;
+    text-align: left;
+    line-height: 20px;
+}
+
+#carouselabout .carousel-control-next {
+    position: absolute;
+    right: 10%
+}
+
+#carouselabout .carousel-control-prev {
+    position: absolute;
+    left: 10%
+}
+
+/* Projects Page */
+
+.projects {
+    text-align: center;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    color: white;
+    margin: 0 8% 0 8%;
+}
+
+#carouselproject {
+    text-align: center;
+}
+
+.car-image {
+    width: 50%;
+    border-radius: 100%;
+}
+
+.project-cards {
+    padding: 5% 0 5% 0;
+}
+
+.col-text {
+    text-align: left;
+}
+
+.ml-image {
+    width: 70%;
+}
+
+.carousel-caption {
+    opacity: 0.6;
+}
+
+.left-github-text {
+    text-align: left;
+}
+
+.web-d {
+    padding-top: 5%;
+    padding-bottom: 8%;
+}
