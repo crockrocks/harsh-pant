@@ -41,7 +41,7 @@ function webd() {
                                 </div>
                                 <div className="carousel-inner">
                                     <div className="carousel-item active">
-                                        <a href='https://github.com/crockrocks/Fastai'>
+                                        <a href='https://harsh-pant.vercel.app/'>
                                             <img src={portfolio} className="ml-image" alt="..." />
                                             <div className="carousel">
                                                 <h5>Portfolio</h5>
