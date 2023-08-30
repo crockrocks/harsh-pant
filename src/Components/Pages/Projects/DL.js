@@ -12,8 +12,8 @@ function DL() {
                     <hr></hr>
                     <p className='col-text'>
                         Experienced in working with various python frameworks as well as love to play and keep looking for latest trends and developments in the field . Looking for researh opportunitis and trying to keep building projects and to keep generating new ideas that can help solve and shape the future .
-                        <li>Worked in NLP using pytorch</li>
-                        <li>Image Classification using TensorFlow</li>
+                            <li>Worked in NLP using pytorch</li>
+                            <li>Image Classification using TensorFlow</li>
                     </p>
                     <h5 className='left-github-text'>"Click on the images to visit the Github Repositories"</h5>
                 </div>
@@ -28,7 +28,7 @@ function DL() {
                                     </div>
                                     <div className="carousel-inner">
                                         <div className="carousel-item active">
-                                            <a to='https://huggingface.co/spaces/crockrocks/text-summarization'>
+                                            <a href='https://huggingface.co/spaces/crockrocks/text-summarization'>
                                                 <img src={textSummary} className="ml-image" alt="..." />
                                                 <div className="carousel-caption d-none d-md-block">
                                                     <h5>Text-Summarisation</h5>
@@ -38,7 +38,7 @@ function DL() {
                                             </a>
                                         </div>
                                         <div className="carousel-item">
-                                            <a to='https://github.com/crockrocks/Dog_Breed_Classifier/tree/main'>
+                                            <a href='https://github.com/crockrocks/Dog_Breed_Classifier/tree/main'>
                                                 <img src={dogVision} className="ml-image" alt="..." />
                                                 <div className="carousel-caption d-none d-md-block">
                                                     <h5>Dog Breed Classifier</h5>
@@ -60,6 +60,7 @@ function DL() {
                         </div>
                     </div>
                 </div>
+                
             </div>
         </div>
     )
