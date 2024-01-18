@@ -7,7 +7,7 @@ function Content() {
     <div className='main'>
       <div className='content'>
         <div className='content_head'>
-          <h3 className='text-center'>Hello</h3>
+          <h3 className='text-center'>Hello 👋</h3>
           <h3 className='text-center'>My name is...</h3>
           <h1 className='text-center'>Harsh Pant.</h1>
         </div>
@@ -16,9 +16,9 @@ function Content() {
             <TypeAnimation
               cursor={true}
               sequence={[
-                'An AI/ML enthusiast !!',
+                'AI/ML enthusiast !! 🤖',
                 1000,
-                'A developer . ',
+                'Developer . 👨‍💻',
                 1000,
                 '',
               ]}
