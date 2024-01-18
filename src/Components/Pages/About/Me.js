@@ -12,14 +12,14 @@ function Me() {
         </div>
         <div className='about col-lg-6'>
           <div className='aboutme'>
-            <h1 className='text-center'> ABOUT</h1>
+            <h1 className='text-center'> ABOUT ME</h1>
             <h3 className='text'>
               <TypeAnimation
                 cursor={true}
                 sequence={[
-                  'Front-End Developer .',
+                  'Developer ...  👨‍💻 ',
                   1000,
-                  'AI/ML Engineeer .',
+                  'AI/ML Enthusiast ... 🤖',
                   1000,
                   '',
                 ]}
@@ -27,8 +27,9 @@ function Me() {
                 repeat={Infinity}
               />
             </h3>
-            <p className='text'> Hello ! I am Harsh Pant , an undergraduate student studying Artificial Intelligence . I am always curious and enthusiatic towards learning new technology . I have explored domains of Web - Development and Artificial Intelligence .</p>
-            <p className='text'> I love to talk and learn from new people . The world of tech is huge and I want to keep learning new technologies in this world of tech . </p>
+            <p className='text'>Yo🤘 !!!  I'm Harsh Pant, a passionate undergraduate student delving into the captivating realms of Artificial Intelligence. Eager to learn and explore, I've ventured into the dynamic domains of both Web Development and AI.</p>
+            <p className='text'>My insatiable curiosity and enthusiasm drive me to continuously expand my knowledge in the ever-evolving world of technology. I thrive on engaging conversations and value the opportunity to learn from diverse perspectives.</p>
+            <p className='text'>The vast expanse of the tech world fuels my excitement, and I am committed to staying abreast of cutting-edge technologies. Join me on this exhilarating journey of discovery and innovation!</p>
           </div>
         </div>
       </div>

@@ -1,5 +1,5 @@
 * {
-    background-color: black;
+    background-color: rgb(0, 0, 0);
 }
 
 footer {
@@ -47,10 +47,11 @@ p.text-center {
     font-size: 1.8rem;
 }
 
-.text-center-grey{
+.text-center-grey {
     font-size: 1.5rem;
     color: grey;
 }
+
 .icons {
     font-size: 40px;
 }
@@ -76,12 +77,16 @@ p.text-center {
 }
 
 /* About page */
+
 .About-me {
     padding-top: 10%;
     color: white;
     margin: 0 8% 0 8%;
 }
 
+.about-links { 
+    font-size: 35px;
+}
 /* 
 Education page */
 .Education {
@@ -139,6 +144,12 @@ h3 .text {
 .Education {
     text-align: center;
     padding-bottom: 7%;
+}
+
+.company-img {
+    margin: 2%;
+    width : 7% ;
+    border-radius: 100%;
 }
 
 .ed-content {
