@@ -22,7 +22,7 @@ footer {
 
 /* Home page */
 .Home {
-    margin: 4% 8% 0 8%;
+    margin: 0.75% 8% 0 8%;
 }
 
 .content {
@@ -74,6 +74,10 @@ p.text-center {
     position: fixed;
     z-index: 1;
     top: 85%;
+}
+
+.avatar-img{
+    width : 5%;
 }
 
 /* About page */

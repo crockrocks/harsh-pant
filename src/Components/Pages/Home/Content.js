@@ -3,6 +3,7 @@ import { TypeAnimation } from 'react-type-animation';
 import '../../../index.css';
 
 function Content() {
+  var avatar = require("../../../images/avatar.png")
   return (
     <div className='main'>
       <div className='content'>
@@ -10,6 +11,7 @@ function Content() {
           <h3 className='text-center'>Hello 👋</h3>
           <h3 className='text-center'>My name is...</h3>
           <h1 className='text-center'>Harsh Pant.</h1>
+          <h3 className><img src={avatar} className="avatar-img" alt="..." />Use <i class="fa-solid fa-caret-left"></i> <i class="fa-solid fa-caret-right"> </i>  to navigate .</h3>
         </div>
         <div className='content'>
           <p className='text-center'>
